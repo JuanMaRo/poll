@@ -1,2 +1,2 @@
 # poll
-Basics of the poll-django project. Exercise based on django documentation tutorial.
+Basics of poll-django project. Exercise based on django documentation tutorial.
